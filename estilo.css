@@ -1,0 +1,45 @@
+.table{
+    border-collapse: collapse;
+}
+
+.tableHeader{
+    background-color: #3d78e4;
+    color: white;
+    text-align: left;
+}
+
+.table tr{
+    vertical-align: top;
+    border-top: 0.5pt solid rgb(115, 144, 115);
+}
+
+td:nth-child(1) {  
+    color: #3d78e4;
+    width: 15%;
+}
+td:nth-child(2) {  
+    vertical-align: top;
+    color: #3d78e4;
+    width: 72%;
+    white-space: pre-wrap;
+}
+td:nth-child(3) {  
+    color: #3d78e4;
+    width: 5%;
+}
+td:nth-child(4) {  
+    color: #3d78e4;
+    width: 5%;
+}
+td:nth-child(5) {  
+    color: #3d78e4;
+    width: 3%;
+}
+
+.a{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
